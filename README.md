@@ -24,7 +24,7 @@ Conducted simple data wrangling and data cleaning:
 - Verified data integrity by checking for duplicates (none found).
 - Standardized and prepared the dataset for analysis.
 
-📍 Cleaning script: [Notebook](https://github.com/SorenSmith/Mobile-Device-Usage-And-User-Behavior/blob/main/Mobile%20Device%20Usafe%20and%20User%20Behavior%20CODE.txt)
+📍 Data Cleaning Using Excel script: [Notebook](https://github.com/SorenSmith/Global-Countries-Data-2023/blob/main/Data%20Cleaning%20Process%20Using%20Excel)
 
 📍 Clean Data: [Mobile Device Usage And User Behavior.csv](https://github.com/SorenSmith/Mobile-Device-Usage-And-User-Behavior/blob/main/user_behavior_dataset.csv)
 
