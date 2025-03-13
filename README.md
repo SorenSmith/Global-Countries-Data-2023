@@ -26,7 +26,7 @@ Conducted simple data wrangling and data cleaning:
 
 📍 Data Cleaning Using Excel script: [Notebook](https://github.com/SorenSmith/Global-Countries-Data-2023/blob/main/Data%20Cleaning%20Process%20Using%20Excel)
 
-📍 Clean Data: [Mobile Device Usage And User Behavior.csv](https://github.com/SorenSmith/Mobile-Device-Usage-And-User-Behavior/blob/main/user_behavior_dataset.csv)
+📍 Clean Data: [World Data 2023.csv](https://github.com/SorenSmith/Global-Countries-Data-2023/blob/main/world-data-2023(Clean)%20-%20world-data-2023.csv%20(1).csv)
 
 ## 📊 Visualization
 
