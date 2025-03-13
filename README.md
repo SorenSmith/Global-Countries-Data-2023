@@ -32,6 +32,6 @@ Conducted simple data wrangling and data cleaning:
 
 Produced a 1-pager dashboard using Tableau.
 
-Tableau: [Link](https://public.tableau.com/app/profile/soren.smith/viz/MobileDeviceUsageandUserBehavior_17417366531850/Dashboard1)
+Tableau: [Link](https://public.tableau.com/app/profile/soren.smith/viz/GlobalCountriesData2023/Dashboard)
 
 ![Unicorns-2](https://github.com/SorenSmith/Mobile-Device-Usage-And-User-Behavior/blob/main/Dashboard%201%20(1).png)
