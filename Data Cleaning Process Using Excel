@@ -1,0 +1,59 @@
+# Data Cleaning Process Using Excel
+
+## Objective
+Clean and prepare the "Countries of the World" dataset for analysis by handling duplicates, missing values, and ensuring data integrity.
+
+### Tools Used
+- Microsoft Excel
+
+## Step 1: Load the Dataset
+1. Open Excel and import the dataset:
+   - Go to **File** → **Open** → Select the dataset (CSV format).
+
+## Step 2: Identify and Remove Duplicates
+1. Select all data by clicking **Ctrl + A**.
+2. Go to the **Data** tab and click **Remove Duplicates**.
+3. In the pop-up window:
+   - Ensure all columns are selected.
+   - Click **OK**.
+4. Excel will show a message indicating if duplicates were found and removed.
+
+✅ **Result:** No duplicates were found.
+
+## Step 3: Handle Missing Values
+1. Identify missing values:
+   - Select all data with **Ctrl + A**.
+   - Go to **Home** → **Find & Select** → **Go to Special...**.
+   - Choose **Blanks** and click **OK**.
+
+2. Check and remove rows with missing country names:
+   - Locate the row(s) where the "Country Name" field is blank.
+   - Right-click on the row number and select **Delete**.
+
+✅ **Result:** 1 row with a missing country name was removed.
+
+## Step 4: Standardize Data Formatting
+1. Ensure consistent formatting for numeric fields:
+   - Select numeric columns (e.g., GDP, Population).
+   - Go to **Home** → **Number Format** and choose **Number**.
+
+2. Trim whitespace from text fields:
+   - Insert a new column next to the text field.
+   - Use the formula `=TRIM(A2)` (replace A2 with the cell reference).
+   - Copy-paste as values to overwrite original data.
+
+## Step 5: Save the Cleaned Dataset
+1. Save a copy of the cleaned data:
+   - Go to **File** → **Save As**.
+   - Choose **CSV (Comma delimited)** format.
+
+   - **File Name:** `cleaned_countries_dataset.csv`
+
+✅ **Result:** Dataset is cleaned, standardized, and ready for analysis.
+
+## Summary of Cleaning Actions
+- Removed 1 row with a missing country name.
+- Verified no duplicate records exist.
+- Standardized numeric formatting and trimmed text fields.
+
+
