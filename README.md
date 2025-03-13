@@ -1,4 +1,4 @@
-# 📱 The Countries With A Lively Future
+# 🌎 The Countries With A Lively Future
 
 ## 📚 About Data
 
